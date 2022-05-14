@@ -542,16 +542,16 @@
       (reference "C81") (unit 1) (value "NM") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75c48"
-      (reference "C82") (unit 1) (value "15p") (footprint "digikey-footprints:0603")
+      (reference "C82") (unit 1) (value "NM") (footprint "digikey-footprints:0603")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75c42"
-      (reference "C83") (unit 1) (value "NM") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
+      (reference "C83") (unit 1) (value "6p") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75d7c"
       (reference "C84") (unit 1) (value "6.8p") (footprint "digikey-footprints:0603")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/de31f7cd-7730-4931-9518-41228f517ba5"
-      (reference "C85") (unit 1) (value "NM") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
+      (reference "C85") (unit 1) (value "12p") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75c81"
       (reference "C86") (unit 1) (value "NM") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
@@ -560,16 +560,16 @@
       (reference "C87") (unit 1) (value "NM") (footprint "digikey-footprints:0603")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75d51"
-      (reference "C88") (unit 1) (value "10p") (footprint "digikey-footprints:0603")
+      (reference "C88") (unit 1) (value "NM") (footprint "digikey-footprints:0603")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75c19"
-      (reference "C89") (unit 1) (value "NM") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
+      (reference "C89") (unit 1) (value "3.3p") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/e3795e13-56e2-48db-bae5-889700d65d75"
-      (reference "C90") (unit 1) (value "NM") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
+      (reference "C90") (unit 1) (value "6p") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75bad"
-      (reference "C91") (unit 1) (value "10p") (footprint "digikey-footprints:0603")
+      (reference "C91") (unit 1) (value "3.3p") (footprint "digikey-footprints:0603")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75c13"
       (reference "C92") (unit 1) (value "NM") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
@@ -581,7 +581,7 @@
       (reference "C94") (unit 1) (value "NM") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75ba7"
-      (reference "C95") (unit 1) (value "15p") (footprint "digikey-footprints:0603")
+      (reference "C95") (unit 1) (value "12p") (footprint "digikey-footprints:0603")
     )
     (path "/00000000-0000-0000-0000-0000620c5308/00000000-0000-0000-0000-000061d75c9b"
       (reference "C97") (unit 1) (value "6.8p") (footprint "digikey-footprints:0603")
