@@ -6,7 +6,7 @@
 
   (title_block
     (title "QRP-FX.25")
-    (date "2023-05-10")
+    (date "2023-08-13")
     (company "PRUG / JK1MLY")
   )
 
@@ -304,7 +304,7 @@
     )
     (instances
       (project "fm-tnc"
-        (path "/f9c81c26-f253-4227-a69f-53e64841cfbe" (page "2"))
+        (path "/f9c81c26-f253-4227-a69f-53e64841cfbe" (page "1"))
       )
     )
   )
@@ -321,12 +321,12 @@
     )
     (instances
       (project "fm-tnc"
-        (path "/f9c81c26-f253-4227-a69f-53e64841cfbe" (page "3"))
+        (path "/f9c81c26-f253-4227-a69f-53e64841cfbe" (page "2"))
       )
     )
   )
 
   (sheet_instances
-    (path "/" (page "1"))
+    (path "/" (page "3"))
   )
 )

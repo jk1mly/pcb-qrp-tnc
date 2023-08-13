@@ -6,7 +6,7 @@
 
   (title_block
     (title "QRP-TNC")
-    (date "2022-05-03")
+    (date "2023-08-13")
     (company "PRUG / JK1MLY")
   )
 
@@ -1254,7 +1254,7 @@
     (uuid ffd7e191-c87e-4867-a391-f239a230c375)
   )
 
-  (text "R32\nYaesu      4.7k\nStandard   22k\nICOM       22k\nKENWOOD  open"
+  (text "R32\nYaesu      2.2k\nStandard   22k\nICOM       22k\nKENWOOD  open"
     (at 91.44 166.37 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0fc2fef3-4818-43ce-9c5d-a88f0b9205a3)
@@ -2424,7 +2424,7 @@
     (property "Footprint" "usr-Library:coil3_7mm" (at 219.71 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "digikey 0805CS-3N3EJTS" (at 219.71 39.37 0)
+    (property "Datasheet" "1.5T" (at 219.71 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ead85dcc-4287-4e41-b310-0abbfb953275))
@@ -2783,7 +2783,7 @@
     (property "Footprint" "usr-Library:coil3_7mm" (at 163.83 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "digikey 0805CS-3N3EJTS" (at 163.83 39.37 0)
+    (property "Datasheet" "1.5T" (at 163.83 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8772e71b-8b23-4056-ba06-ecaca48efda2))
